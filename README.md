@@ -1,1 +1,2 @@
-# myOwnLibrary-bounceOffcollision
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
